@@ -1,8 +1,7 @@
 ﻿int m = 0;
 int resultado;
 
-
-Console.WriteLine("---Tabuada do número: 7---");
+Console.WriteLine("---Tabuada do número: ---");
 int n = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine();
 
